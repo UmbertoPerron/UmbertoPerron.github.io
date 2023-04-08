@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coexpression | </title>
+    <link>https://UmbertoPerron.github.io/tag/coexpression/</link>
+      <atom:link href="https://UmbertoPerron.github.io/tag/coexpression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Coexpression</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://UmbertoPerron.github.io/media/icon_hud26bed6ed8e8569c1b8f4ef9f292d91b_1627_512x512_fill_lanczos_center_3.png</url>
+      <title>Coexpression</title>
+      <link>https://UmbertoPerron.github.io/tag/coexpression/</link>
+    </image>
+    
+    <item>
+      <title>In silico prediction of lncRNA function using tissue specific and evolutionary conserved expression</title>
+      <link>https://UmbertoPerron.github.io/publication/perron-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://UmbertoPerron.github.io/publication/perron-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

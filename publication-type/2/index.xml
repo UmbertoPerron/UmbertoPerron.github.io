@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | </title>
+    <link>https://UmbertoPerron.github.io/publication-type/2/</link>
+      <atom:link href="https://UmbertoPerron.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://UmbertoPerron.github.io/media/icon_hud26bed6ed8e8569c1b8f4ef9f292d91b_1627_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://UmbertoPerron.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>A heuristic algorithm solving the mutual-exclusivity-sorting problem</title>
+      <link>https://UmbertoPerron.github.io/publication/vinceti-heuristic-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://UmbertoPerron.github.io/publication/vinceti-heuristic-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An interactive web application for processing, correcting, and visualizing genome-wide pooled CRISPR-Cas9 screens</title>
+      <link>https://UmbertoPerron.github.io/publication/vinceti-interactive-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://UmbertoPerron.github.io/publication/vinceti-interactive-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced gene templates for supervised analysis of scale-limited CRISPR-Cas9 fitness screens</title>
+      <link>https://UmbertoPerron.github.io/publication/vinceti-reduced-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://UmbertoPerron.github.io/publication/vinceti-reduced-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoRe: a robustly benchmarked R package for identifying core-fitness genes in genome-wide pooled CRISPR-Cas9 screens</title>
+      <link>https://UmbertoPerron.github.io/publication/vinceti-core-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://UmbertoPerron.github.io/publication/vinceti-core-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling bias and model choice in continuous phylogeography: getting lost on a random walk</title>
+      <link>https://UmbertoPerron.github.io/publication/kalkauskas-sampling-2020/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://UmbertoPerron.github.io/publication/kalkauskas-sampling-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redefining false discoveries in cancer data</title>
+      <link>https://UmbertoPerron.github.io/publication/najgebauer-redefining-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://UmbertoPerron.github.io/publication/najgebauer-redefining-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambiguity coding allows accurate inference of evolutionary parameters from alignments in an aggregated state-space</title>
+      <link>https://UmbertoPerron.github.io/publication/weber-ambiguity-2019/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://UmbertoPerron.github.io/publication/weber-ambiguity-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling structural constraints on protein evolution via side-chain conformational states</title>
+      <link>https://UmbertoPerron.github.io/publication/perron-modelling-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://UmbertoPerron.github.io/publication/perron-modelling-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In silico prediction of lncRNA function using tissue specific and evolutionary conserved expression</title>
+      <link>https://UmbertoPerron.github.io/publication/perron-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://UmbertoPerron.github.io/publication/perron-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
